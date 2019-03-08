@@ -85,13 +85,13 @@ return [
     |
     */
 
-    'dashboard_url' => 'shop/admin',
+    'dashboard_url' => 'admin/dashboard',
 
-    'logout_url' => 'shop/admin/logout',
+    'logout_url' => 'admin/logout/logout',
 
     'logout_method' => null,
 
-    'login_url' => 'shop/admin/login',
+    'login_url' => 'login',
 
     'register_url' => 'register',
 

@@ -13,9 +13,17 @@
 
 Route::get('/', function () {
     return view('welcome');
-});
+})->name('home');
 
 Auth::routes(['verify' => true]);
 
-Route::get('/home', 'HomeController@index')->name('home');
+// Shop Routes
+
+// Admin Routes
+
+Route::get('/admin/dashboard' , 'AdminController@index')->name('admin.home');
+
+// Vendor Routes
+
+// User Routes
 
