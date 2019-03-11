@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'title' => 'EcomShop',
+    'title' => 'Mall Of Myamar',
 
     'title_prefix' => '',
 
@@ -30,9 +30,9 @@ return [
     |
     */
 
-    'logo' => '<b>Ecom</b>SHOP',
+    'logo' => '<b>Mall Of</b>Myanmar',
 
-    'logo_mini' => '<b>EC</b>S',
+    'logo_mini' => '<b>MO</b>M',
 
     /*
     |--------------------------------------------------------------------------
