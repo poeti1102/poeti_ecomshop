@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>
         @yield('title_prefix', config('adminlte.title_prefix', ''))
-        @yield('title', config('adminlte.title', 'Ecom Shop'))
+        @yield('title', config('adminlte.title', 'Mall Of Myanmar Admin'))
         @yield('title_postfix', config('adminlte.title_postfix', ''))
     </title>
     <!-- Tell the browser to be responsive to screen width -->

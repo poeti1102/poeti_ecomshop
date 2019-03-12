@@ -1,6 +1,6 @@
 @extends('adminlte::page')
 
-@section('title', 'Ecom Shop')
+@section('title', 'Mall Of Myanmar Admin')
 
 @section('content_header')
     <h1>Dashboard</h1>
