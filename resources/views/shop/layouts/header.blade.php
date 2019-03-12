@@ -21,7 +21,7 @@
             <div class="col-lg-6">
                 <div class="top_header_middle">
                     <a href="#"><i class="fa fa-phone"></i> Call Us: <span>+95 9957915381</span></a>
-                    <a href="#"><i class="fa fa-envelope"></i> Email: <span>support@ecomshop.com</span></a>
+                    <a href="#"><i class="fa fa-envelope"></i> Email: <span>support@mallofmyanmar.com</span></a>
                     {{-- <img src="img/logo.png" alt=""> --}}
                 </div>
             </div>

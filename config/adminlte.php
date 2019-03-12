@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'title' => 'Mall Of Myamar',
+    'title' => 'Mall Of Myanmar',
 
     'title_prefix' => '',
 
@@ -30,7 +30,7 @@ return [
     |
     */
 
-    'logo' => '<b>Mall Of</b>Myanmar',
+    'logo' => '<b>Mall Of</b> Myanmar',
 
     'logo_mini' => '<b>MO</b>M',
 

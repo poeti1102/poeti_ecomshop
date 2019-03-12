@@ -41,6 +41,7 @@
                             <li><a href="#">Wish List</a></li>
                             <li><a href="#">Newsletter</a></li>
                             <li><a href="#">Contact Us</a></li>
+                            <li><a href="#">Faq</a></li>
                         </ul>
                     </aside>
                 </div>
