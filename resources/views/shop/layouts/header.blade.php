@@ -5,9 +5,9 @@
                 <div class="top_header_left">
                     <div class="selector">
                         <select class="language_drop" name="countries" id="countries" style="width:300px;">
-                          <option value='yt' data-image="img/icon/uk_flag.png" data-imagecss="flag yt" data-title="English">English</option>
-                          <option value='yu' data-image="img/icon/mm_flag.png" data-imagecss="flag yu" data-title="Zawgyi">Zawgyi</option>
-                          <option value='yt' data-image="img/icon/mm_flag.png" data-imagecss="flag yt" data-title="Unicode">Unicode</option>
+                          <option value='yt' data-image="/img/icon/uk_flag.png" data-imagecss="flag yt" data-title="English">English</option>
+                          <option value='yu' data-image="/img/icon/mm_flag.png" data-imagecss="flag yu" data-title="Zawgyi">Zawgyi</option>
+                          <option value='yt' data-image="/img/icon/mm_flag.png" data-imagecss="flag yt" data-title="Unicode">Unicode</option>
                         </select>
                     </div>
                     <div class="input-group">
@@ -22,7 +22,7 @@
                 <div class="top_header_middle">
                     <a href="#"><i class="fa fa-phone"></i> Call Us: <span>+95 9957915381</span></a>
                     <a href="#"><i class="fa fa-envelope"></i> Email: <span>support@mallofmyanmar.com</span></a>
-                    {{-- <img src="img/logo.png" alt=""> --}}
+                    {{-- <img src="/img/logo.png" alt=""> --}}
                 </div>
             </div>
             <div class="col-lg-3">

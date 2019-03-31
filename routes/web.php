@@ -23,7 +23,16 @@ Auth::routes(['verify' => true]);
 
 Route::get('/admin/dashboard' , 'AdminController@index')->name('admin.home');
 
-// Vendor Routes
+
+
+Route::get('/admin/dashboard/vendor' , 'AdminController@vendor')->name('admin.vendor');
+
+// Vendor Routes77
+Route::get('/vendor/register' , 'VendorController@register')->name('vendor.register');
+Route::get('/vendor/{vendor}/awaitconfirmation' , 'VendorController@awaitconfirm')->name('vendor.awaitconfirmation');
+Route::post('/vendor/register/confirm' , 'VendorController@confirm')->name('vendor.confirm');
+Route::post('/vendor/register/complete' , 'VendorController@complete')->name('vendor.complete');
+
 
 // User Routes
 

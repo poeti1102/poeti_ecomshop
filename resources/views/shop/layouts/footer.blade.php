@@ -5,7 +5,7 @@
                 <div class="col-lg-4 col-md-4 col-6">
                     <aside class="f_widget f_about_widget">
                         {{-- <img src="img/logo.png" alt=""> --}}
-                        <p>Persuit is a Premium PSD Template. Best choice for your online store. Let purchase it to enjoy now</p>
+                        <p>Mall of the Myanmar/p>
                         <h6>Social:</h6>
                         <ul>
                             <li><a href="#"><i class="social_facebook"></i></a></li>
@@ -75,7 +75,7 @@
                                 onclick="event.preventDefault();
                                 document.getElementById('logout-form').submit();">Logout</a></li>
                             @endif
-                            <li><a href="#">Ordr History</a></li>
+                            <li><a href="{{route('vendor.register')}}">Vendor Registration</a></li>
                             <li><a href="#">Wish List</a></li>
                             <li><a href="#">Newsletter</a></li>
                         </ul>
